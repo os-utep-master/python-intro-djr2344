@@ -1,0 +1,3 @@
+out.txt
+shell.py
+try_dir
