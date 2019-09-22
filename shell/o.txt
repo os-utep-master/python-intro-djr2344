@@ -1,0 +1,13 @@
+Child:  ...trying to exec /usr/local/sbin/ls
+Child:  ...trying to exec /usr/local/bin/ls
+Child:  ...trying to exec /usr/sbin/ls
+Child:  ...trying to exec /usr/bin/ls
+Child:  ...trying to exec /sbin/ls
+Child:  ...trying to exec /bin/ls
+execscr.PNG
+o.txt
+out.txt
+p4-output.txt
+pf.py
+shell.py
+try_dir

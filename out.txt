@@ -1,0 +1,12 @@
+Readme.md
+declaration.txt
+declarationKey.txt
+out.txt
+outputfile.txt
+shell
+speech.txt
+speechKey.txt
+w_cc.py
+w_cc_results.PNG
+wordCount.py
+wordCountTest.py

@@ -1,0 +1,7 @@
+Child:  ...trying to exec /usr/local/sbin/ls
+Child:  ...trying to exec /usr/local/bin/ls
+Child:  ...trying to exec /usr/sbin/ls
+Child:  ...trying to exec /usr/bin/ls
+Child:  ...trying to exec /sbin/ls
+Child:  ...trying to exec /bin/ls
+p4-output.txt
